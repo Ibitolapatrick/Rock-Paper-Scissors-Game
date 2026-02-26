@@ -1,0 +1,53 @@
+
+
+body{
+    background-color: #F7F8F0;
+    height: 100vh;
+}
+h1{
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    color: #355872;
+
+}
+
+h2{
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #355872;
+}
+
+#first-image{
+    display: inline-block;
+    text-align: center;
+    margin-top: 8%;
+    margin-left: 20%;
+    padding-right: 5%;
+}
+
+#second-image{
+    display: inline-block;
+   text-align: center;
+   padding-left: 5%;
+   margin-bottom: 10%;
+    
+}
+
+img{
+    height: 150px;
+}
+
+footer{
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #355872;
+    padding-top: 20px;
+
+}
